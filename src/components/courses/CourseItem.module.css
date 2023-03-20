@@ -1,0 +1,55 @@
+.courseItem{
+    display: flex;
+    padding-left: 1 rem;
+    margin: 10px 0;
+}
+
+
+
+.img{
+    width: 8rem;
+    height: 4rem;
+}
+
+.imgCol{
+    width: 20%;
+    padding-right: 10px;
+}
+
+.majorCol{
+    width: 25%;
+}
+
+.titleCol{
+    width: 25%;
+}
+
+.durationCol{
+    width: 10%;
+    display: flex;
+    vertical-align: middle;
+}
+
+.updateCol{
+    width: 20%;
+    display: flex;
+    align-items: center;
+}
+
+.deleteCol{
+    width: 20%;
+    display: flex;
+    align-items: center;
+}
+
+.updateCol button {
+    height: 2.5rem;
+    width: 80%;
+    
+}
+
+.deleteCol button {
+    height: 2.5rem;
+    width: 80%;
+    
+}

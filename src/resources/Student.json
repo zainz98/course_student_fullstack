@@ -1,0 +1,27 @@
+[
+    {
+        "id":1,
+        "major":"computer Science",
+        "name" :"data Structure",
+        "duration_in_minutes":110,
+        "number":180,
+        "img":"img/computer science.png"
+        
+    },
+    {
+        "id":3,
+        "major":"accounting",
+        "name" :"Finance",
+        "number":101,
+        "img":"img/accounting.jpg"
+    },
+    {
+        "id":4,
+        "major":"biology",
+        "name" :"OS",
+        "number":101,
+        "duration_in_minutes":20,
+        "img":"img/biology.jpg"
+    }
+
+]
